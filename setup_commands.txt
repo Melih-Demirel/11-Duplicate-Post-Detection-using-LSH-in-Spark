@@ -1,0 +1,5 @@
+mamba create -n spark python=3.12
+mamba activate spark
+pip install bleach==6.1.0 lxml==4.9.4 nltk==3.8.1 matplotlib==3.8.2 memory-profiler
+mamba install jupyter openjdk pyspark ipykernel
+python -m ipykernel install --user --name=spark
