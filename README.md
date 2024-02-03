@@ -1,2 +1,1 @@
-"# 11-Duplicate-Post-Detection-using-LSH-in-Spark" 
-"# 11-Duplicate-Post-Detection-using-LSH-in-Spark" 
+# Detect duplicate posts using LSH in Spark. Dataset can be contained here: (https://archive.org/download/stackexchange). I used Software Engineering and Cryptography Stack Exchange (only downloading Posts.xml is enough)
